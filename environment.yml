@@ -1,0 +1,15 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: pip install -r requirements.txt || pip install -r <(conda list >/dev/null 2>&1 || echo /dev/null)
+      - run: pip install numpy pandas scipy matplotlib pympi-ling papermill jupyterlab
+      - run: python - <<'PY'
+import os; os.makedirs("results/figures", exist_ok=True)
+PY
+      - run: papermill notebooks/01-analysis_kinematic_features_module.ipynb results/figures/run.ipynb

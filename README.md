@@ -72,12 +72,6 @@ jupyter lab
 # Open notebooks/01-analysis_kinematic_features_module.ipynb
 ```
 
-### Basic Usage
-
-1. Load MediaPipe keypoint CSV files
-2. Convert to OpenPose-like format
-3. Calculate vertical amplitude, McNeillian space, and volumetric measures
-4. Export results for further analysis
 
 ## 📈 Data Format
 

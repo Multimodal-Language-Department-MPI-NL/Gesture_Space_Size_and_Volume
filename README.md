@@ -1,6 +1,6 @@
 # McNeillian Space and 2D Size Analysis
 
-> Attribution: Envision Box: [Module](https://www.envisionbox.org/embedded_Analysis_kinematic_features_module.html)
+> Attribution: Use the script prepared for the focus group session. Attribute to this Envision Box module: [Module](https://www.envisionbox.org/embedded_MergingMultimodal_inPython.html)
 
 Quantitative measures for gesture space analysis using MediaPipe keypoints, including vertical amplitude, McNeillian space classification, and volumetric space calculations.
 
@@ -99,11 +99,11 @@ jupyter lab
 
 ## 🔗 Related Projects
 
-- `../MediaPipe_keypoints_extraction/`
-- `../Smoothing/`
-- `../Normalization/`
-- `../Speed_Acceleration_Jerk/`
-- `../Merging_Motion_ELAN/`
+- `https://github.com/Multimodal-Language-Department-MPI-NL/MediaPipe_keypoints_extraction`
+- `https://github.com/Multimodal-Language-Department-MPI-NL/Smoothing`
+- `https://github.com/Multimodal-Language-Department-MPI-NL/Normalization`
+- `https://github.com/Multimodal-Language-Department-MPI-NL/Speed_Acceleration_Jerk`
+- `https://github.com/Multimodal-Language-Department-MPI-NL/Merging_Motion_ELAN`
 
 ## 📖 References
 

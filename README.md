@@ -1,5 +1,7 @@
 # McNeillian Space and 2D Size Analysis
 
+> Attribution: Envision Box: [Module](https://www.envisionbox.org/embedded_Analysis_kinematic_features_module.html)
+
 Quantitative measures for gesture space analysis using MediaPipe keypoints, including vertical amplitude, McNeillian space classification, and volumetric space calculations.
 
 ## 🔬 Research Context

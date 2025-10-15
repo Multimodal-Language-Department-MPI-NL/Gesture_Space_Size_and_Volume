@@ -6,7 +6,7 @@ Quantitative measures for gesture space analysis using MediaPipe keypoints, incl
 
 ## 🔬 Research Context
 
-This module implements quantitative measures for analyzing gesture space usage, based on David McNeill's (1992) gesture space framework. It enables automated analysis of how speakers use visual space during gestures, supporting research on gesture complexity and spatial behavior.
+This module shows how to calculate maximum vertical amplitude (i.e., gesture height), characterize the location of gestures based on McNeillian space (McNeill, 1992), and calculate the 2D size or 3D volume of gesture (or sign) space. 
 
 ## 🎯 What This Project Does
 

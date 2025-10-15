@@ -99,11 +99,11 @@ jupyter lab
 
 ## 🔗 Related Projects
 
-- `https://github.com/Multimodal-Language-Department-MPI-NL/MediaPipe_keypoints_extraction`
-- `https://github.com/Multimodal-Language-Department-MPI-NL/Smoothing`
-- `https://github.com/Multimodal-Language-Department-MPI-NL/Normalization`
-- `https://github.com/Multimodal-Language-Department-MPI-NL/Speed_Acceleration_Jerk`
-- `https://github.com/Multimodal-Language-Department-MPI-NL/Merging_Motion_ELAN`
+- [Extracting MediaPipe keypoints](https://github.com/Multimodal-Language-Department-MPI-NL/MediaPipe_keypoints_extraction): Extract pose landmarks from video with MediaPipe.
+- [Smoothing](https://github.com/Multimodal-Language-Department-MPI-NL/Smoothing): Smooth noise and interpolate missing points.
+- [Normalization](https://github.com/Multimodal-Language-Department-MPI-NL/Normalization): Normalize position and scale across files.
+- [Speed, Acceleration, and Jerk](https://github.com/Multimodal-Language-Department-MPI-NL/Speed_Acceleration_Jerk): Compute speed, acceleration, and jerk over time.
+- [Merging ELAN and MediaPipe](https://github.com/Multimodal-Language-Department-MPI-NL/Merging_Motion_ELAN): Align motion data with ELAN annotations.
 
 ## 📖 References
 
